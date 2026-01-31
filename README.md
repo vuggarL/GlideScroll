@@ -2,6 +2,7 @@
 
 A smooth, responsive middle-mouse scrolling utility for Windows.
 
+![AI Assisted](https://img.shields.io/badge/Built%20with-AI%20Assistance-purple)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2.0-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
