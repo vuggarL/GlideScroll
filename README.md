@@ -1,6 +1,9 @@
 # GlideScroll
 
-A smooth, responsive middle-mouse scrolling utility for Windows.
+**KDE Plasma-style smooth scrolling for Windows.**
+
+Hold middle mouse, move to scroll - fast, fluid, and responsive. Not like slow browser auto-scroll.
+
 
 ![AI Assisted](https://img.shields.io/badge/Built%20with-AI%20Assistance-purple)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2.0-green)
