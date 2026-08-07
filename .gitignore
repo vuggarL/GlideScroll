@@ -1,0 +1,5 @@
+# Ignore Archive folder
+Archive/
+
+# Ignore debug log file
+GlideScroll_debug.log
