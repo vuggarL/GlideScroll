@@ -1,5 +1,30 @@
+<<<<<<< HEAD
 # Ignore Archive folder
 Archive/
 
 # Ignore debug log file
 GlideScroll_debug.log
+=======
+# Config files (user-specific)
+*.ini
+
+# Compiled executable
+*.exe
+
+# AutoHotkey
+*.ah2
+*.ahk~
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Misc
+*.log
+*.bak
+>>>>>>> b2540a0993afdb4412d9b25f06fa4770ce41a626
